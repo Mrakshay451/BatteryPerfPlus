@@ -1,0 +1,6 @@
+id=BatteryPerfADB
+name=BatteryPerf+
+version=1.0
+versionCode=20210714
+author=MrAkshay451
+description= A powerful module to improve battery life by changing thermal values.
